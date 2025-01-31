@@ -1,0 +1,157 @@
+body{
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+div{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+p{
+    margin: 10px auto 10px auto;
+    width: 980px;
+    text-align: justify;
+    font-size: 18px;
+    line-height: 28px;
+}
+
+.banner{
+    background-color: #afddfb;
+}
+
+.banner img {
+    width: 150px;
+}
+
+.banner p{
+    margin-top: 15px;
+    margin-bottom: 25px;
+    text-align: center;
+}
+
+.banner a{
+    font-size: 18px;
+    color: #1d1d1d;
+    border-bottom: 2px #1d1d1d ;
+    text-decoration: none;
+    margin: 0 10px 0 10px;
+}
+
+.about{
+    margin-top: 50px;
+    padding-top: 0%;
+}
+
+.servicos h1{
+    color: #1d1d1d;
+    margin-bottom: 5px;
+}
+
+.servicos h2{
+    color: #1c81c0;
+    font-weight: normal;
+}
+
+.servicos img{
+    width: 450px;
+}
+
+.servicos span{
+    color: #1c81c0;
+    font-weight: bold;
+}
+
+.infos{
+    background-color: #1c81c0;
+}
+
+.infos h2{
+    color: #ffffff;
+    font-size: 28px;
+    line-height: 42px;
+}
+
+.infos p{
+    color: #ffffff;
+    line-height: 42px;
+    font-size: 22px;
+    text-align: center;
+    width: 700px;
+}
+
+.texto_amarelo{
+    color: #fff81b;
+}
+
+.infos ul{
+    margin: 40px auto 40px auto;
+    width: 135px;
+}
+
+.infos ul li{
+    color: #ffffff;
+    line-height: 42px;
+    text-align: left;
+    font-size: 22px;
+}
+
+.corretores h2{
+    color: #1c81c0;
+    font-weight: normal;
+}
+
+.corretores img{
+    width: 450px;
+}
+
+.corretores span{
+    color: #1c81c0;
+}
+
+.corretores a{
+    color: #1d1d1d;
+    background-color: #1c81c0;
+    text-decoration: none;
+    padding: 5px;
+    font-style: bold;
+    border-radius: 5px;
+}
+
+.contato{
+    background-color: #1c81c0;
+}
+
+.contato h3{
+    color: #ffffff;
+    font-weight: normal;
+}
+
+.contato p{
+    color: #ffffff;
+    text-align: center;
+    background-color: #1d1d1d;
+    padding: 15px;
+}
+
+.contato ul{
+    list-style-type: none;
+    margin: 40px auto 40px auto ;
+    width: 210px;
+}
+
+.contato ul li{
+    margin-top: 15px;
+    text-align: center;
+    font-size: 18px;
+    background-color: #ffffff;
+    color: #1c81c0;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-radius: 5px;
+}
+
+
